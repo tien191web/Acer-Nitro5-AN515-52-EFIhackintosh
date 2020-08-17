@@ -1,9 +1,10 @@
 # Acer-Nitro5-AN515-52-EFIhackintosh
 Clover EFI hackintosh for Acer Nitro 5 AN515-52
 
-Guide:
 Phiên bản được sử dụng trên mẫu Acer Nitro 5 AN515-52 (Acer Nitro 5 i5 8300H 2018)
+
 Nguồn: https://github.com/JackyZHZ/Acer-Nitro-5-hackintosh 
+
 Được chỉnh sửa bởi: https://github.com/tien191web/Acer-Nitro5-AN515-52-EFIhackintosh
 Các bước thực hiện: 
 1.	Cài đặt thư mục EFI lên EFI của ổ cứng đã cài macOS bằng cách dùng Clover Configuration ở thư mục External Application -> Mount EFI -> Mount partition
